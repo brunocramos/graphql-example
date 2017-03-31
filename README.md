@@ -7,3 +7,7 @@ Just type:
 `yarn install`
 
 `yarn run start`
+
+----
+
+Slides: [goo.gl/ehA5V1](goo.gl/ehA5V1)
