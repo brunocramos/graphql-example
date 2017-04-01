@@ -10,4 +10,4 @@ Just type:
 
 ----
 
-Slides: [goo.gl/ehA5V1](goo.gl/ehA5V1)
+Slides: [https://goo.gl/ehA5V1](https://goo.gl/ehA5V1)
